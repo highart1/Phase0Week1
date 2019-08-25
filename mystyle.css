@@ -1,11 +1,3 @@
-.body {
-    background-image: url("../../../root/Pictures/90943191-abstract-technological-background-from-various-geometric-shapes.jpg")
-}
-
-
-
-
-
 .row {
     max-width: 1500px;
     margin: auto;
@@ -50,7 +42,7 @@
     z-index: 1;
 }
 
-.img1 {
+.content {
     text-align: center;
     position: relative;
     color:white;
@@ -118,4 +110,66 @@
     border-style: solid;
     border-radius: 50% ;
     border-color: blue;
+}
+
+.kotak_login {
+    position: relative;
+    top: 40px;
+	width: 300px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	
+}
+.label1 {
+    color: azure;
+    position: relative;
+    top: 103px;
+
+}
+
+.label2 {
+    color: azure;
+    position: relative;
+    top: 91px;
+}
+
+.label3 {
+    color: azure;
+    position: relative;
+    top: 91px;
+}
+
+.top-form {
+    color: azure;
+    position: relative;
+    top: 100px;
+}
+ 
+label {
+	font-size: 11pt;
+}
+ 
+.login-form {
+    
+    position: relative;
+    width: 100%;
+    top: 100px;
+	
+	box-sizing : border-box;
+	
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.login-button {
+    top: 150px;
+    position: relative;
+	background: rgb(62, 62, 228);
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
 }

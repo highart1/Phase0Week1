@@ -1,0 +1,121 @@
+.body {
+    background-image: url("../../../root/Pictures/90943191-abstract-technological-background-from-various-geometric-shapes.jpg")
+}
+
+
+
+
+
+.row {
+    max-width: 1500px;
+    margin: auto;
+}
+
+.main-nav {
+    float: left;
+    list-style-type: disc;
+    margin: 30px;
+}
+
+.main-nav li {
+    display: inline-block;
+}
+
+.main-nav li a {
+    color: azure;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 20px;
+    font-size: 20px;
+    z-index: 1;
+}
+
+.main-nav2 {
+    float: right;
+    list-style-type: georgian;
+    margin: 30px;
+    
+}
+
+.main-nav2 li {
+    display: inline-block;
+}
+
+.main-nav2 li a {
+    color: azure;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 20px;
+    font-size: 20px;
+    z-index: 1;
+}
+
+.img1 {
+    text-align: center;
+    position: relative;
+    color:white;
+
+}
+
+.image {
+    border-style: solid;
+    border-color: black;
+    border-radius: 10%;
+}
+
+.over0 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+
+}
+
+.over {
+    position: absolute;
+    top: 170px;
+    left: 90px;
+    
+}
+
+.over2 {
+    position: absolute;
+    top: 400px;
+    left: 90px;
+}
+
+.over3 {
+    position: absolute;
+    top: 170px;
+    left: 800px;
+}
+
+.over4 {
+    position: absolute;
+    top:   400px;
+    left: 800px;
+}
+
+.lol {
+    border-style: solid;
+    border-radius: 50% ;
+    border-color: blue;
+}
+
+.lol2 {
+    border-style: solid;
+    border-radius: 50% ;
+    border-color: blue;
+}
+
+.lol3 {
+    border-style: solid;
+    border-radius: 50% ;
+    border-color: blue;
+}
+
+.lol4 {
+    border-style: solid;
+    border-radius: 50% ;
+    border-color: blue;
+}
